@@ -31,6 +31,7 @@ Precision/Recall/F1 (Negative): 0.79/0.96/0.87
 AdaBoost:
 Accuracy: 72.40%
 Precision/Recall/F1 (Negative): 0.73/0.95/0.83
+
 Outcome: Logistic Regression and Support Vector Machine models achieved the highest accuracy for sentiment classification.
 
 Developed and evaluated machine learning models for tweet sentiment analysis, achieving a testing accuracy of 79.78% with Logistic Regression.
