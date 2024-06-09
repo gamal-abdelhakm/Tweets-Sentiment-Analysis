@@ -3,9 +3,11 @@
 Objective: Developed models to classify tweets into negative, neutral, and positive sentiments.
 
 Techniques:
+
 Naive Bayes:
 Accuracy: 70.77%
 Precision/Recall/F1 (Negative): 0.70/0.99/0.82
+
 Logistic Regression:
 Accuracy: 79.78%
 Precision/Recall/F1 (Negative): 0.81/0.95/0.88
